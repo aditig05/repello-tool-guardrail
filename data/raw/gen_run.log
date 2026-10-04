@@ -1,0 +1,487 @@
+WARNING: no seeds in data/seeds/ — generating without human-written anchors.
+  gemini-3.8-flash: API 503
+tool_call|1|destructive: +10 (10/96)
+  gemini-3.8-flash: API 503
+  gemini-3.7-flash: API 503
+tool_call|1|destructive: +10 (20/96)
+  gemini-3.8-flash: API 503
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|destructive: +10 (30/96)
+tool_call|1|destructive: +10 (40/96)
+  gemini-3.8-flash: API 503
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+  saved data/raw/batches/batch_001.json (50 rows); gemini.json updated
+tool_call|1|destructive: +10 (50/96)
+  gemini-3.8-flash: API 503
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|destructive: +10 (60/96)
+  gemini-3.8-flash: API 503
+  gemini-3.7-flash: API 503
+tool_call|1|destructive: +9 (69/96)
+  gemini-3.8-flash: API 503
+tool_call|1|destructive: +10 (79/96)
+  gemini-3.8-flash: API 503
+tool_call|1|destructive: +9 (88/96)
+  gemini-3.8-flash: API 503
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|destructive: +8 (96/96)
+  gemini-3.8-flash: API 503
+  gemini-3.7-flash: API 503
+  saved data/raw/batches/batch_002.json (50 rows); gemini.json updated
+tool_call|1|argument_poisoning: +10 (10/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+tool_call|1|argument_poisoning: +10 (20/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|argument_poisoning: +10 (30/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+tool_call|1|argument_poisoning: +10 (40/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|argument_poisoning: +10 (50/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+  saved data/raw/batches/batch_003.json (50 rows); gemini.json updated
+tool_call|1|argument_poisoning: +10 (60/96)
+  gemini-3.8-flash: API 429
+tool_call|1|argument_poisoning: +10 (70/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|argument_poisoning: +10 (80/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|argument_poisoning: +10 (90/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|argument_poisoning: +6 (96/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  saved data/raw/batches/batch_004.json (50 rows); gemini.json updated
+tool_call|1|supply_chain: +10 (10/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 503
+  gemini-3.6-flash: API 503
+tool_call|1|supply_chain: +10 (20/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+tool_call|1|supply_chain: +10 (30/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+=== restart Sun Oct  4 04:39:00 PM IST 2026 (balanced scheduler) ===
+WARNING: no seeds in data/seeds/ — generating without human-written anchors.
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+tool_output|1|api_response_injection: +10 (10/144)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 503
+tool_call|1|exfiltration: +10 (10/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+tool_call|1|multistep_laundering: +10 (10/96)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+tool_output|0|routine: +10 (10/192)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  saved data/raw/batches/batch_005.json (50 rows); gemini.json updated
+tool_output|1|tool_description_poisoning: +10 (10/144)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+tool_call|0|hard_negative_lookalike: +10 (10/288)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+=== restart Sun Oct  4 04:42:54 PM IST 2026 (label-balanced scheduler) ===
+WARNING: no seeds in data/seeds/ — generating without human-written anchors.
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+tool_output|0|benign_tool_description: +10 (10/144)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+tool_output|0|hard_negative_imperative: +10 (10/240)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+tool_call|0|authorized_risky: +10 (10/144)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+tool_call|0|routine: +10 (10/240)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 5s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 10s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 20s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  tool_call|0|hard_negative_lookalike: error RuntimeError: all models unavailable
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 5s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 10s
+=== restart Sun Oct  4 04:45:18 PM IST 2026 (capacity errors no longer counted as rejects) ===
+WARNING: no seeds in data/seeds/ — generating without human-written anchors.
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 5s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 10s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 20s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  tool_call|0|hard_negative_lookalike: capacity wait 60s (not counted as reject)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 5s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 10s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 20s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  tool_call|0|hard_negative_lookalike: capacity wait 60s (not counted as reject)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 5s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 10s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 20s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  tool_call|0|hard_negative_lookalike: capacity wait 60s (not counted as reject)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 5s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 10s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 20s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  tool_call|0|hard_negative_lookalike: capacity wait 60s (not counted as reject)
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 5s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 10s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  all models busy, retry in 20s
+  gemini-3.8-flash: API 429
+  gemini-3.7-flash: API 429
+  gemini-3.6-flash: API 429
+  gemini-3.5-flash: API 429
+  tool_call|0|hard_negative_lookalike: capacity wait 60s (not counted as reject)
+=== restart Sun Oct  4 04:53:54 PM IST 2026 (flash-lite models, batch 25, quota-aware) ===
+WARNING: no seeds in data/seeds/ — generating without human-written anchors.
+tool_call|0|hard_negative_lookalike: +24 (34/288)
+tool_call|0|routine: +25 (35/240)
+  saved data/raw/batches/batch_006.json (50 rows); gemini.json updated
+tool_output|0|hard_negative_imperative: +25 (35/240)
+tool_output|0|routine: +24 (34/192)
+  saved data/raw/batches/batch_007.json (50 rows); gemini.json updated
+tool_output|0|benign_tool_description: +25 (35/144)
+tool_call|0|authorized_risky: +25 (35/144)
+  saved data/raw/batches/batch_008.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +25 (59/288)
+tool_call|0|routine: +22 (57/240)
+  saved data/raw/batches/batch_009.json (50 rows); gemini.json updated
+tool_output|0|hard_negative_imperative: +25 (60/240)
+tool_call|1|safety_bypass: +25 (25/96)
+  saved data/raw/batches/batch_010.json (50 rows); gemini.json updated
+tool_output|0|routine: +25 (59/192)
+tool_call|1|persistence: +25 (25/96)
+  saved data/raw/batches/batch_011.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +25 (84/288)
+tool_output|1|web_injection: +25 (25/144)
+  saved data/raw/batches/batch_012.json (50 rows); gemini.json updated
+tool_call|0|routine: +25 (82/240)
+tool_output|1|file_injection: +25 (28/144)
+  saved data/raw/batches/batch_013.json (50 rows); gemini.json updated
+tool_call|0|authorized_risky: +24 (59/144)
+tool_output|1|tool_description_poisoning: +25 (35/144)
+  saved data/raw/batches/batch_014.json (50 rows); gemini.json updated
+tool_output|0|benign_tool_description: +25 (60/144)
+tool_output|1|api_response_injection: +25 (35/144)
+  saved data/raw/batches/batch_015.json (50 rows); gemini.json updated
+tool_output|0|hard_negative_imperative: +25 (85/240)
+tool_call|1|multistep_laundering: +24 (34/96)
+  saved data/raw/batches/batch_016.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +23 (107/288)
+tool_call|1|exfiltration: +25 (35/96)
+  saved data/raw/batches/batch_017.json (50 rows); gemini.json updated
+tool_output|0|routine: +25 (84/192)
+tool_output|1|web_injection: +25 (50/144)
+  saved data/raw/batches/batch_018.json (50 rows); gemini.json updated
+tool_call|0|routine: +21 (103/240)
+tool_output|1|file_injection: +25 (53/144)
+  saved data/raw/batches/batch_019.json (50 rows); gemini.json updated
+tool_output|0|hard_negative_imperative: +25 (110/240)
+tool_output|1|api_response_injection: +25 (60/144)
+  saved data/raw/batches/batch_020.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +24 (131/288)
+tool_output|1|tool_description_poisoning: +25 (60/144)
+  saved data/raw/batches/batch_021.json (50 rows); gemini.json updated
+tool_call|0|authorized_risky: +23 (82/144)
+tool_call|1|safety_bypass: +25 (50/96)
+  tool_output|0|benign_tool_description: error RemoteProtocolError: Server disconnected without sending a response.
+  saved data/raw/batches/batch_022.json (50 rows); gemini.json updated
+tool_output|0|benign_tool_description: +25 (85/144)
+tool_call|1|persistence: +25 (50/96)
+  saved data/raw/batches/batch_023.json (50 rows); gemini.json updated
+tool_call|0|routine: +24 (127/240)
+tool_call|1|supply_chain: +25 (55/96)
+  saved data/raw/batches/batch_024.json (50 rows); gemini.json updated
+tool_output|0|routine: +25 (109/192)
+tool_output|1|web_injection: +25 (75/144)
+  saved data/raw/batches/batch_025.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +21 (152/288)
+tool_call|1|multistep_laundering: +25 (59/96)
+  saved data/raw/batches/batch_026.json (50 rows); gemini.json updated
+tool_output|0|hard_negative_imperative: +25 (135/240)
+tool_call|1|exfiltration: +25 (60/96)
+  saved data/raw/batches/batch_027.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +24 (176/288)
+tool_call|0|routine: +22 (149/240)
+  saved data/raw/batches/batch_028.json (50 rows); gemini.json updated
+tool_output|1|file_injection: +25 (78/144)
+tool_output|0|hard_negative_imperative: +25 (160/240)
+  saved data/raw/batches/batch_029.json (50 rows); gemini.json updated
+tool_output|1|api_response_injection: +25 (85/144)
+tool_output|0|routine: +25 (134/192)
+  saved data/raw/batches/batch_030.json (50 rows); gemini.json updated
+tool_output|1|tool_description_poisoning: +25 (85/144)
+tool_call|0|authorized_risky: +23 (105/144)
+tool_call|1|safety_bypass: +25 (75/96)
+  saved data/raw/batches/batch_031.json (50 rows); gemini.json updated
+tool_output|0|benign_tool_description: +25 (110/144)
+tool_output|1|web_injection: +25 (100/144)
+  saved data/raw/batches/batch_032.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +24 (200/288)
+tool_call|1|persistence: +25 (75/96)
+  saved data/raw/batches/batch_033.json (50 rows); gemini.json updated
+tool_call|0|routine: +24 (173/240)
+tool_output|1|file_injection: +25 (103/144)
+  saved data/raw/batches/batch_034.json (50 rows); gemini.json updated
+tool_output|0|hard_negative_imperative: +25 (185/240)
+tool_call|1|supply_chain: +25 (80/96)
+  saved data/raw/batches/batch_035.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +24 (224/288)
+tool_output|1|api_response_injection: +25 (110/144)
+  saved data/raw/batches/batch_036.json (50 rows); gemini.json updated
+tool_output|0|routine: +25 (159/192)
+tool_output|1|tool_description_poisoning: +25 (110/144)
+  saved data/raw/batches/batch_037.json (50 rows); gemini.json updated
+tool_call|0|routine: +19 (192/240)
+tool_call|1|multistep_laundering: +22 (81/96)
+  saved data/raw/batches/batch_038.json (50 rows); gemini.json updated
+tool_call|0|authorized_risky: +24 (129/144)
+tool_call|1|exfiltration: +25 (85/96)
+  saved data/raw/batches/batch_039.json (50 rows); gemini.json updated
+tool_output|0|benign_tool_description: +25 (135/144)
+tool_output|1|web_injection: +25 (125/144)
+  saved data/raw/batches/batch_040.json (50 rows); gemini.json updated
+tool_output|0|hard_negative_imperative: +25 (210/240)
+tool_output|1|file_injection: +25 (128/144)
+  saved data/raw/batches/batch_041.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +24 (248/288)
+tool_output|1|tool_description_poisoning: +25 (135/144)
+  saved data/raw/batches/batch_042.json (50 rows); gemini.json updated
+tool_call|0|routine: +24 (216/240)
+tool_output|1|api_response_injection: +25 (135/144)
+  saved data/raw/batches/batch_043.json (50 rows); gemini.json updated
+tool_output|0|routine: +25 (184/192)
+tool_call|1|persistence: +21 (96/96)
+  saved data/raw/batches/batch_044.json (50 rows); gemini.json updated
+tool_call|0|hard_negative_lookalike: +21 (269/288)
+tool_call|1|safety_bypass: +19 (94/96)
+tool_output|0|hard_negative_imperative: +25 (235/240)
+  saved data/raw/batches/batch_045.json (50 rows); gemini.json updated
+tool_call|1|supply_chain: +16 (96/96)
+=== restart Sun Oct  4 05:49:33 PM IST 2026 (http timeout) ===
+WARNING: no seeds in data/seeds/ — generating without human-written anchors.
+tool_call|1|multistep_laundering: +15 (96/96)
+tool_call|0|authorized_risky: +12 (141/144)
+tool_call|0|routine: +22 (238/240)
+  saved data/raw/batches/batch_046.json (50 rows); gemini.json updated
+tool_output|1|web_injection: +19 (144/144)
+tool_call|1|exfiltration: +11 (96/96)
+tool_call|0|hard_negative_lookalike: +17 (286/288)
+  saved data/raw/batches/batch_047.json (50 rows); gemini.json updated
+tool_output|1|file_injection: +16 (144/144)
+tool_output|0|benign_tool_description: +9 (144/144)
+tool_output|0|routine: +8 (192/192)
+tool_output|1|api_response_injection: +9 (144/144)
+tool_call|0|authorized_risky: +3 (144/144)
+  saved data/raw/batches/batch_048.json (50 rows); gemini.json updated
+tool_output|1|tool_description_poisoning: +9 (144/144)
+tool_output|0|hard_negative_imperative: +5 (240/240)
+tool_call|0|routine: +1 (239/240)
+tool_call|0|hard_negative_lookalike: +1 (287/288)
+tool_call|0|routine: +1 (240/240)
+tool_call|1|safety_bypass: +2 (96/96)
+tool_call|0|hard_negative_lookalike: +1 (288/288)
+  saved data/raw/batches/batch_049.json (11 rows); gemini.json updated
+cell                                                     have  rejects
+tool_call|1|destructive                                    96        0
+tool_call|1|exfiltration                                   96        0
+tool_call|1|persistence                                    96        0
+tool_call|1|safety_bypass                                  96        0
+tool_call|1|supply_chain                                   96        0
+tool_call|1|argument_poisoning                             96        0
+tool_call|1|multistep_laundering                           96        0
+tool_call|0|routine                                       240        0
+tool_call|0|hard_negative_lookalike                       288        1
+tool_call|0|authorized_risky                              144        0
+tool_output|1|file_injection                              144        2
+tool_output|1|web_injection                               144        0
+tool_output|1|api_response_injection                      144        0
+tool_output|1|tool_description_poisoning                  144        0
+tool_output|0|routine                                     192        2
+tool_output|0|hard_negative_imperative                    240        0
+tool_output|0|benign_tool_description                     144        1
+
+total=2496  benign=1248  harmful=1248
+=== restart Sun Oct  4 05:59:38 PM IST 2026 (3 counter-shortcut benign cells, total 3000) ===
+WARNING: no seeds in data/seeds/ — generating without human-written anchors.
+tool_output|0|benign_install_docs: +25 (25/120)
+  saved data/raw/batches/batch_050.json (50 rows); gemini.json updated
+tool_call|0|routine_chained: +25 (25/192)
+tool_output|0|benign_structured_response: +25 (25/192)
+  saved data/raw/batches/batch_051.json (50 rows); gemini.json updated
+tool_call|0|routine_chained: +25 (50/192)
+tool_output|0|benign_structured_response: +25 (50/192)
+  saved data/raw/batches/batch_052.json (50 rows); gemini.json updated
+tool_output|0|benign_install_docs: +25 (50/120)
+tool_output|0|benign_structured_response: +25 (75/192)
+  saved data/raw/batches/batch_053.json (50 rows); gemini.json updated
+tool_call|0|routine_chained: +25 (75/192)
+tool_output|0|benign_structured_response: +25 (100/192)
+  saved data/raw/batches/batch_054.json (50 rows); gemini.json updated
+tool_call|0|routine_chained: +25 (100/192)
+tool_output|0|benign_install_docs: +25 (75/120)
+  saved data/raw/batches/batch_055.json (50 rows); gemini.json updated
+tool_output|0|benign_structured_response: +25 (125/192)
+tool_call|0|routine_chained: +25 (125/192)
+  saved data/raw/batches/batch_056.json (50 rows); gemini.json updated
+tool_output|0|benign_install_docs: +25 (100/120)
+tool_call|0|routine_chained: +25 (150/192)
+  saved data/raw/batches/batch_057.json (50 rows); gemini.json updated
+tool_output|0|benign_structured_response: +25 (150/192)
+tool_output|0|benign_structured_response: +25 (175/192)
+  saved data/raw/batches/batch_058.json (50 rows); gemini.json updated
+tool_call|0|routine_chained: +25 (175/192)
+tool_output|0|benign_install_docs: +20 (120/120)
+tool_call|0|routine_chained: +17 (192/192)
+  saved data/raw/batches/batch_059.json (50 rows); gemini.json updated
+tool_output|0|benign_structured_response: +17 (192/192)
+  saved data/raw/batches/batch_060.json (4 rows); gemini.json updated
+cell                                                     have  rejects
+tool_call|1|destructive                                    96        0
+tool_call|1|exfiltration                                   96        0
+tool_call|1|persistence                                    96        0
+tool_call|1|safety_bypass                                  96        0
+tool_call|1|supply_chain                                   96        0
+tool_call|1|argument_poisoning                             96        0
+tool_call|1|multistep_laundering                           96        0
+tool_call|0|routine                                       240        0
+tool_call|0|hard_negative_lookalike                       288        1
+tool_call|0|authorized_risky                              144        0
+tool_output|1|file_injection                              144        2
+tool_output|1|web_injection                               144        0
+tool_output|1|api_response_injection                      144        0
+tool_output|1|tool_description_poisoning                  144        0
+tool_output|0|routine                                     192        2
+tool_output|0|hard_negative_imperative                    240        0
+tool_output|0|benign_tool_description                     144        1
+tool_call|0|routine_chained                               192        0
+tool_output|0|benign_structured_response                  192        1
+tool_output|0|benign_install_docs                         120        0
+
+total=3000  benign=1752  harmful=1248

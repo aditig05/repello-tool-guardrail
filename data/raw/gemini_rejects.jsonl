@@ -1,0 +1,7 @@
+{"cell": "tool_output|1|file_injection", "finish_reason": null, "t": 1791110855.615787}
+{"cell": "tool_call|0|hard_negative_lookalike", "finish_reason": null, "t": 1791112499.0628216}
+{"cell": "tool_output|0|benign_tool_description", "finish_reason": null, "t": 1791114512.3652396}
+{"cell": "tool_output|0|routine", "finish_reason": "FinishReason.STOP", "t": 1791114566.539383}
+{"cell": "tool_output|0|routine", "finish_reason": "FinishReason.RECITATION", "t": 1791114702.6248348}
+{"cell": "tool_output|1|file_injection", "finish_reason": "FinishReason.RECITATION", "t": 1791115117.340444}
+{"cell": "tool_output|0|benign_structured_response", "finish_reason": "FinishReason.RECITATION", "t": 1791117176.0211167}
