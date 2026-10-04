@@ -1,0 +1,117 @@
+{
+  "raw": 3300,
+  "doc_network_lines_added": 54,
+  "near_duplicates_removed": 34,
+  "groups": 2893,
+  "largest_group": 19,
+  "splits": {
+    "train": {
+      "n": 2286,
+      "label": {
+        "1": 872,
+        "0": 1414
+      },
+      "surface": {
+        "tool_call": 1265,
+        "tool_output": 1021
+      },
+      "source": {
+        "gemini": 2086,
+        "nl2bash": 200
+      },
+      "category": {
+        "api_response_injection": 101,
+        "argument_poisoning": 67,
+        "authorized_risky": 198,
+        "benign_install_docs": 83,
+        "benign_structured_response": 134,
+        "benign_tool_description": 101,
+        "destructive": 67,
+        "exfiltration": 67,
+        "file_injection": 101,
+        "hard_negative_imperative": 168,
+        "hard_negative_lookalike": 199,
+        "multistep_laundering": 66,
+        "persistence": 67,
+        "routine": 397,
+        "routine_chained": 134,
+        "safety_bypass": 67,
+        "supply_chain": 67,
+        "tool_description_poisoning": 101,
+        "web_injection": 101
+      }
+    },
+    "val": {
+      "n": 497,
+      "label": {
+        "1": 192,
+        "0": 305
+      },
+      "surface": {
+        "tool_call": 268,
+        "tool_output": 229
+      },
+      "source": {
+        "gemini": 454,
+        "nl2bash": 43
+      },
+      "category": {
+        "api_response_injection": 22,
+        "argument_poisoning": 15,
+        "authorized_risky": 43,
+        "benign_install_docs": 18,
+        "benign_structured_response": 29,
+        "benign_tool_description": 22,
+        "destructive": 15,
+        "exfiltration": 15,
+        "file_injection": 22,
+        "hard_negative_imperative": 36,
+        "hard_negative_lookalike": 43,
+        "multistep_laundering": 14,
+        "persistence": 15,
+        "routine": 85,
+        "routine_chained": 29,
+        "safety_bypass": 15,
+        "supply_chain": 15,
+        "tool_description_poisoning": 22,
+        "web_injection": 22
+      }
+    },
+    "test": {
+      "n": 483,
+      "label": {
+        "0": 301,
+        "1": 182
+      },
+      "surface": {
+        "tool_call": 273,
+        "tool_output": 210
+      },
+      "source": {
+        "gemini": 433,
+        "nl2bash": 50
+      },
+      "category": {
+        "api_response_injection": 21,
+        "argument_poisoning": 14,
+        "authorized_risky": 42,
+        "benign_install_docs": 18,
+        "benign_structured_response": 28,
+        "benign_tool_description": 21,
+        "destructive": 14,
+        "exfiltration": 14,
+        "file_injection": 21,
+        "hard_negative_imperative": 36,
+        "hard_negative_lookalike": 43,
+        "multistep_laundering": 14,
+        "persistence": 14,
+        "routine": 85,
+        "routine_chained": 28,
+        "safety_bypass": 14,
+        "supply_chain": 14,
+        "tool_description_poisoning": 21,
+        "web_injection": 21
+      }
+    }
+  }
+}
