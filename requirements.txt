@@ -1,0 +1,14 @@
+# data generation
+google-genai>=1.0
+pydantic>=2
+python-dotenv
+# data prep + classical baselines
+datasketch
+scikit-learn
+numpy
+# training / eval (versions validated locally and pinned in the Kaggle notebook)
+torch
+transformers==5.18.0
+peft==0.21.2
+accelerate
+datasets

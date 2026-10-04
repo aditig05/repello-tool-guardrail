@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+kaggle/*.zip
+runs/
+data/raw/gen.pid
+data/raw/.progress_hist.json
