@@ -6,3 +6,4 @@ kaggle/*.zip
 runs/
 data/raw/gen.pid
 data/raw/.progress_hist.json
+dataset_final.zip
