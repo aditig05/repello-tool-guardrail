@@ -1,7 +1,7 @@
 # Agentic Tool-Call Guardrail (Track 1)
 
-A binary detector that screens a single AI coding-agent step — a proposed **tool call** or a
-**tool output** it is about to trust — and flags it *harmful* or *benign*, judged against the
+A binary detector that screens a single AI coding-agent step, a proposed **tool call** or a
+**tool output** it is about to trust and flags it *harmful* or *benign*, judged against the
 user's task and prior steps. Full methodology, results, and analysis are in **[REPORT.md](REPORT.md)**.
 
 **Artifacts (public):**
@@ -15,7 +15,7 @@ user's task and prior steps. Full methodology, results, and analysis are in **[R
 | Qwen3-0.6B-Base + LoRA (main) | 0.999 | 0.984 | 0.973 |
 | ModernBERT-base (alternative) | 0.997 | 0.959 | 0.890 |
 
-On a hand-authored, no-overlap **red-team set**, bypass rises from 1.6% (in-distribution) to **37%**,
+On a manually extracted, no-overlap **red-team set**, bypass rises from 1.6% (in-distribution) to **37%**,
 concentrated in invisible-Unicode, base64, and out-of-domain harm. An input-normalization defense
 (`scripts/defenses.py`) closes the obfuscation gap. See REPORT.md §5.
 
@@ -64,10 +64,3 @@ results/     metrics JSON + RESULTS.md (all tables)
 kaggle/      train_kaggle.ipynb, make_bundle.sh
 REPORT.md    full write-up
 ```
-
-## Reuse & credit
-
-NL2Bash (Lin et al., 2018) for human-written benign commands; HuggingFace `transformers`/`peft`
-for the LoRA loop; `datasketch` for MinHash dedup. The generation pipeline, shortcut audit,
-splitting, evaluation, red-team tooling, and normalization defense are my own. Full citations in
-REPORT.md §8. Built for the Repello AI research-engineer assignment; not production-hardened.
